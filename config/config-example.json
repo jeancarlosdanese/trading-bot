@@ -1,0 +1,11 @@
+{
+    "api_key": "SUA_API_KEY",
+    "api_secret": "SUA_API_SECRET",
+    "trade_pairs": [
+        "BTCUSDT",
+        "ETHUSDT"
+    ],
+    "reserve_threshold": 1000,
+    "quantity": "0.01",
+    "test_mode": true
+}
